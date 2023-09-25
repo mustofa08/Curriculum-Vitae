@@ -1,0 +1,21 @@
+body{
+    background-color: azure;
+}
+.jumbotron{
+    padding-top: 2rem;
+    background-color: rgb(208, 243, 243);
+}
+.containercontact{
+    padding: 2rem 1rem;
+    background-color: rgb(208, 243, 243);
+}
+.box {
+    width: 250px;
+    height: 150px;
+    padding: 10px;
+    background-color: #ffff ;
+    font-family: Arial, sans-serif;
+}
+.rowabout{
+    padding: 1rem 6rem;
+}
